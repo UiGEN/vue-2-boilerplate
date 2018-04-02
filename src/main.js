@@ -22,6 +22,9 @@ import './plugins/vuex-router-sync';
 import './plugins/bootstrap';
 import './plugins/font-awesome';
 
+// ## end imports plugins tag ##
+// #############################
+
 /* ============
  * Styling
  * ============

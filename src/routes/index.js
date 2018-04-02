@@ -54,6 +54,9 @@ export default [
     },
   },
 
+  // ## end rotues tag ##
+  // ####################
+
   {
     path: '/',
     redirect: '/home',
